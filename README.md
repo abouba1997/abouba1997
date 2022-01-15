@@ -1,4 +1,4 @@
-<img src="https://aboubaportfolio.netlify.app/images/img/photo-iden.jpg">
+<img src="https://aboubaportfolio.netlify.app/images/img/photo-iden.jpg" width="450px" height="450px">
 
 <h2> Hey there! I'm Aboubacar Sangare.</h2>
 
