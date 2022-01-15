@@ -53,7 +53,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+//<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/abouba1997/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aboubacar%20Sangare-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/abouba_sang/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-abouba_sang-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:abouba.sang93@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-abouba.sang93@gmail.com-blue?style=flat-square&logo=gmail"></a>
