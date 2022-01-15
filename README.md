@@ -1,4 +1,4 @@
-<img src="https://aboubaportfolio.netlify.app/images/img/photo-iden.jpg" width="250px" height="250px" style="border-raduis:50%;">
+<img src="https://aboubaportfolio.netlify.app/images/img/photo-iden.jpg" width="250px" height="250px" style="border-radius:50%;text-align:center;">
 
 <h2> Hey there! I'm Aboubacar Sangare.</h2>
 
