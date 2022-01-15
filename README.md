@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/abouba1997/abouba1997/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://aboubaportfolio.netlify.app/images/img/photo-iden.jpg">
 
 <h2> Hey there! I'm Aboubacar Sangare.</h2>
 
