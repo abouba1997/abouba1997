@@ -6,7 +6,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and Mathematics at Ufa State of Aviation Technical  University.
-- 💼 &nbsp; Working as a Freelancer.
+- 💼 &nbsp; Working at Scandiweb.
 - 🌱 &nbsp; Learning more about Artificial Intelligence and Web Development Technologies.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
 
